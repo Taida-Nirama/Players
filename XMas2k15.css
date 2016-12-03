@@ -1,0 +1,30 @@
+#player,#player a{ color:#95092e;  font-size: 12px; font-family:Tahoma;}
+#player{ background:url(http://i1159.photobucket.com/albums/p636/Taida_Nirama/Volume_zpsxqbtiwia.png); background-position:bottom; background-color: #FFFFFF;}
+#player .mainImage{ background:url(http://i1159.photobucket.com/albums/p636/Taida_Nirama/Whole_zpsecc0f6aq.png); }
+
+#player #baseLeft{ width:93px; }
+#player #baseRight{ width:145px;}
+#player .button{  width:26px; }
+#player #play{ background:url(http://i1159.photobucket.com/albums/p636/Taida_Nirama/Play%20Button_zpsv0lh0csw.png); }
+#player #play,#player #pause{ left:26px; }
+#player #previous{ left:0px; }
+#player #next{ left:52px; }
+#player #title{ left:90px;  font-size: 12px; }
+#player #tooltip{ right:196px; }
+#player #timer{ right:120px;  }
+#player #list{ right:0px; }
+
+#player #seeker{ right:320px; }
+#player #seekerBase{ border-color:#FFFFFF;  }
+#player #seekerBuffered{ background-color:#000000; }
+#player #seekerSliderBase{ background-color:#FFFFFF; }
+
+#player #volume{ width:65px; right:39px; }
+#player #volumeSlider{ width:8px; background:url(http://i1159.photobucket.com/albums/p636/Taida_Nirama/Volume_zpsxqbtiwia.png); }
+
+#playlist,#playlist .module,#playlist h3{ border-color:#FFFFFF;}
+#playlist .module{  color:#000000; background-color:#FFFFFF; }
+#playlist h3{ background:url(http://i1159.photobucket.com/albums/p636/Taida_Nirama/PlaylistBar_zpsb6hacrip.png); color:#000000; background-color:#000000;  }
+#playlist .even{background-color:#fff;}
+#playlist .odd{ background-color:#fff;}
+#playlist .focus{ background-color:#fff; color:#aaa;}
